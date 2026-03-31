@@ -93,7 +93,7 @@ Screenshots of tool outputs are available in the `Proof of Concept/` folder.
 
 ## Created
 Yanamadala Syam Nithin  
-📧 syamnithin2003@gmail.com
+syamnithin2003@gmail.com
 
 ---
 
